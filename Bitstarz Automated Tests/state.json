@@ -1,0 +1,369 @@
+{
+  "cookies": [
+    {
+      "name": "X-AB",
+      "value": "38b33afdb36f494aa03f175381ce5c1b",
+      "domain": "sc-static.net",
+      "path": "/scevent.min.js",
+      "expires": 1713210657.852677,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "latestLocale",
+      "value": "en",
+      "domain": "test.bitstarz.com",
+      "path": "/",
+      "expires": 1744660241.976039,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ritualsLocale",
+      "value": "Global|NL|en_NL",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": 1744660261.172467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1452215406.1713124257",
+      "domain": ".rituals-staging.com",
+      "path": "/",
+      "expires": 1720900257,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "8fbf24c9-f7f8-41d9-8c40-5a8148e9815d",
+      "domain": ".rituals-staging.com",
+      "path": "/",
+      "expires": 1747310955,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "8fbf24c9-f7f8-41d9-8c40-5a8148e9815d",
+      "domain": ".rituals-staging.com",
+      "path": "/",
+      "expires": 1747310955,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cc-nx-g_Global",
+      "value": "qBGMFsnvtnKz5cxnRZ_YchXLGKKRUzf-AfhCQEnHXmQ",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": 1713556258,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1713125158.529957,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-id",
+      "value": "A8WL53zkL0-FvSP4AFKCR7s",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1735761058.714815,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1747684258.714922,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_467620",
+      "value": "eyJpZCI6ImZiYjcxN2FkLTA2ZWMtNTg0Yi05MzY5LTNmYTg2NWY2ZmM4OCIsImNyZWF0ZWQiOjE3MTMxMjQyNTg5NTAsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".rituals-staging.com",
+      "path": "/",
+      "expires": 1744660258,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_467620",
+      "value": "eyJpZCI6IjM5Zjc4ZTgxLWMyZWUtNGMwNy04NTNkLTk4NzYwZThiY2NmYiIsImMiOjE3MTMxMjQyNTg5NTEsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".rituals-staging.com",
+      "path": "/",
+      "expires": 1713126058,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU1EYzRaV0ZpTm1RdFpqY3dOQzAwT0dSbExXSTBZekF0WWpZMFlqZ3dOV1poWlRjeQ",
+      "domain": ".rituals-staging.com",
+      "path": "/",
+      "expires": 1744660259,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".pinterest.com",
+      "path": "/",
+      "expires": 1744660259.505591,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pinterest_ct_ua",
+      "value": "\"TWc9PSZaTnFlT2ROZDQ5UnhOWmlrL2RENnBXdEZ1ZDBxN09ZNUVZK2JHU1I1cjJwVXFPaVNyaWVqRVhXUDU5aDNMQVdrYTFwY05aN1pvSzZuWTVXckVETmRGclRaY04wcnZXdVZaMFhqN3dRSHR2az0mUTVZNFg0eTdEQUE1bXZIUDhWMUwzNXg2WFBRPQ==\"",
+      "domain": ".ct.pinterest.com",
+      "path": "/",
+      "expires": 1744660259.505653,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1713124259572.1827182556",
+      "domain": ".rituals-staging.com",
+      "path": "/",
+      "expires": 1720900261,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1713124260660",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1718308260.618473,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "6f31580b-5d32-4b54-a773-8e751b716d18",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1718308260.618537,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1718308260.618603,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sc_at",
+      "value": "v2|H4sIAAAAAAAAAEtKS0xLTrRI1TWxSE0BEWm6SaZJqbppZslphmYGScYpyeY1hiYGVobmhsaGRiZGZoY1SEwDAGxXGSZAAAAA",
+      "domain": ".snapchat.com",
+      "path": "/",
+      "expires": 1746820260.849047,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sctr",
+      "value": "1%7C1713045600000",
+      "domain": ".rituals-staging.com",
+      "path": "/",
+      "expires": 1747310958,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cqcid",
+      "value": "abk4a8TTfEa03rQmX0R5Kh1rmd",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cquid",
+      "value": "||",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid",
+      "value": "crwYo1BYzI7DMCq1Q1G8d5zXFm1E1tQIckE",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cq_dnt",
+      "value": "1",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dw_dnt",
+      "value": "1",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dwsecuretoken_f05b8449cdeb698aa739d69c70fdf52a",
+      "value": "\"\"",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dwsid",
+      "value": "6YIEeQ8a4BJbSzBtx4afr5_iFQ9hzz5llRtCdp3GDOr7vRFU4Q5fwIdrzACjAY-VqzVErKHz6XN9ksIu-f4mqg==",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dwanonymous_f05b8449cdeb698aa739d69c70fdf52a",
+      "value": "abxHFHlHIWwusRkbgUlaYYkKpF",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": 1728676261.172624,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2024-04-14T19:51:01.774Z",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": 1744660261,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sun+Apr+14+2024+21%3A51%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2bc6d0fa-9f0e-4bb1-9e03-e9be2068e69d&interactionCount=1&landingPath=NotLandingPage&groups=C0003%3A1%2CC0001%3A1%2CC0004%3A1%2CC0007%3A1%2CBG28%3A1",
+      "domain": "www.rituals-staging.com",
+      "path": "/",
+      "expires": 1744660261,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.rituals-staging.com",
+      "localStorage": [
+        {
+          "name": "enc_user_id",
+          "value": "adb831a7fdd83dd1e2a309ce7591dff8"
+        },
+        {
+          "name": "u_sclid",
+          "value": "3584f4ae-fab1-4e7c-a135-7834f7909bb7"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "customer_id",
+          "value": "abxHFHlHIWwusRkbgUlaYYkKpF"
+        },
+        {
+          "name": "cc-nx-g_Global",
+          "value": "qBGMFsnvtnKz5cxnRZ_YchXLGKKRUzf-AfhCQEnHXmQ"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1713124259568"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "3584f4ae-fab1-4e7c-a135-7834f7909bb7"
+        },
+        {
+          "name": "idp_access_token",
+          "value": ""
+        },
+        {
+          "name": "id_token",
+          "value": ""
+        },
+        {
+          "name": "access_token",
+          "value": "Bearer eyJ2ZXIiOiIxLjAiLCJqa3UiOiJzbGFzL3Byb2QvYmJrbF9zdGciLCJraWQiOiIxZjg2MGM5OC0yMDc5LTQ5NTEtYmIzOS0zMDFhYjNkOTM2OWMiLCJ0eXAiOiJqd3QiLCJjbHYiOiJKMi4zLjQiLCJhbGciOiJFUzI1NiJ9.eyJhdXQiOiJHVUlEIiwic2NwIjoic2ZjYy5zaG9wcGVyLW15YWNjb3VudC5iYXNrZXRzIHNmY2Muc2hvcHBlci1kaXNjb3Zlcnktc2VhcmNoIHNmY2Muc2hvcHBlci1teWFjY291bnQucGF5bWVudGluc3RydW1lbnRzIHNmY2Muc2hvcHBlci1jdXN0b21lcnMubG9naW4gc2ZjYy5zaG9wcGVyLW15YWNjb3VudC5vcmRlcnMgc2ZjYy5zaG9wcGVyLXByb2R1Y3RsaXN0cyBzZmNjLnNob3BwZXItcHJvbW90aW9ucyBzZmNjLnNob3BwZXIuc3RvcmVzIHNmY2Mub3JkZXJzLnJ3IHNmY2Muc2Vzc2lvbl9icmlkZ2Ugc2ZjYy5zaG9wcGVyLW15YWNjb3VudC5wYXltZW50aW5zdHJ1bWVudHMucncgc2ZjYy5zaG9wcGVyLW15YWNjb3VudC5wcm9kdWN0bGlzdHMgc2ZjYy5zaG9wcGVyLWNhdGVnb3JpZXMgc2ZjYy5zaG9wcGVyLW15YWNjb3VudCBzZmNjLnNob3BwZXItbXlhY2NvdW50LmFkZHJlc3NlcyBzZmNjLnNob3BwZXItcHJvZHVjdHMgc2ZjYy5zaG9wcGVyLW15YWNjb3VudC5ydyBzZmNjLnNob3BwZXItY29udGV4dC5ydyBzZmNjLnNob3BwZXItYmFza2V0cy1vcmRlcnMgc2ZjYy5zaG9wcGVyLWN1c3RvbWVycy5yZWdpc3RlciBzZmNjLnNob3BwZXItbXlhY2NvdW50LmFkZHJlc3Nlcy5ydyBzZmNjLnNob3BwZXItbXlhY2NvdW50LnByb2R1Y3RsaXN0cy5ydyBzZmNjLnNob3BwZXItcHJvZHVjdCBzZmNjLnNob3BwZXItYmFza2V0cy1vcmRlcnMucncgc2ZjYy5zaG9wcGVyLWdpZnQtY2VydGlmaWNhdGVzIHNmY2Muc2hvcHBlci1wcm9kdWN0LXNlYXJjaCIsInN1YiI6ImNjLXNsYXM6OmJia2xfc3RnOjpzY2lkOjhiN2Q2MDAwLWE0MDctNDcwOS04ZjY0LWU4MjRkYTNiNDlkMDo6dXNpZDpmOGM2OTJhZS0wMjA0LTQyZGEtYWM1NC1iNDkyNmM3OWQwZGUiLCJjdHgiOiJzbGFzIiwiaXNzIjoic2xhcy9wcm9kL2Jia2xfc3RnIiwiaXN0IjoxLCJkbnQiOiIwIiwiYXVkIjoiY29tbWVyY2VjbG91ZC9wcm9kL2Jia2xfc3RnIiwibmJmIjoxNzEzMTI0MjI4LCJzdHkiOiJVc2VyIiwiaXNiIjoidWlkbzpzbGFzOjp1cG46R3Vlc3Q6OnVpZG46R3Vlc3QgVXNlcjo6Z2NpZDphYnhIRkhsSElXd3VzUmtiZ1VsYVlZa0twRjo6Y2hpZDpHbG9iYWwiLCJleHAiOjE3MTMxMjYwNTgsImlhdCI6MTcxMzEyNDI1OCwianRpIjoiQzJDMTU4Nzc5Njg2MDAtNzg4NTAyMjI5NDQ4MTM4ODc3NzQ3OTc0NiJ9.PXQCxA7d58EVX8ObasjqhWxdHwHLI3tw1zjPaqkFhlkDmHEyR46f3BZUJOG63_ZUh8fWGyhEarmIIOW66Q_2oQ"
+        },
+        {
+          "name": "oid",
+          "value": "f_ecom_bbkl_stg"
+        },
+        {
+          "name": "usid",
+          "value": "f8c692ae-0204-42da-ac54-b4926c79d0de"
+        }
+      ]
+    }
+  ]
+}
